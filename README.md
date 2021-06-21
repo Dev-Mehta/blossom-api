@@ -3,13 +3,13 @@
 ## Table of Contents
 - [API for Blossom Project - Online nursery and plants diary app](#api-for-blossom-project---online-nursery-and-plants-diary-app)
   * [Installation](#installation)
-    + [Step 1 : Clone the repo](#step-1---clone-the-repo)
-    + [Step 2 : Create a virtual enviroment for the project and activate it](#step-2---create-a-virtual-enviroment-for-the-project-and-activate-it)
+    + [Step 1 : Clone the repo](#step-1--clone-the-repo)
+    + [Step 2 : Create a virtual enviroment for the project and activate it](#step-2--create-a-virtual-enviroment-for-the-project-and-activate-it)
       - [For windows](#for-windows)
       - [For Unix based systems](#for-unix-based-systems)
-    + [Step 3 : Install the dependencies/requirements to run this project](#step-3---install-the-dependencies-requirements-to-run-this-project)
-    + [Step 4 : Run the Server and start making requests:fire:.](#step-4---run-the-server-and-start-making-requests-fire-)
-  * [Usage 🚀👨‍💻](#usage--------)
+    + [Step 3 : Install the dependencies/requirements to run this project](#step-3--install-the-dependenciesrequirements-to-run-this-project)
+    + [Step 4 : Run the Server and start making requests:fire:.](#step-4--run-the-server-and-start-making-requestsfire)
+  * [Usage 🚀👨‍💻](#usage-)
 
 ## Installation
 ### Step 1 : Clone the repo
