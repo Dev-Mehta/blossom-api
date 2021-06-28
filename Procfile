@@ -1,1 +1,1 @@
-web: gunicorn blossom.wsgi --log-file -
+web: gunicorn blossom.wsgi:application --log-file -
